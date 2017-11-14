@@ -5,6 +5,7 @@
 [![Code Climate](https://codeclimate.com/github/kpumuk/meta-tags/badges/gpa.svg)](https://codeclimate.com/github/kpumuk/meta-tags)
 [![Test Coverage](https://codeclimate.com/github/kpumuk/meta-tags/badges/coverage.svg)](https://codeclimate.com/github/kpumuk/meta-tags/coverage)
 [![Gem Downloads](https://img.shields.io/gem/dt/meta-tags.svg)](https://badge.fury.io/rb/meta-tags)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkpumuk%2Fmeta-tags.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkpumuk%2Fmeta-tags?ref=badge_shield)
 
 Search Engine Optimization (SEO) plugin for Ruby on Rails applications.
 
@@ -714,3 +715,7 @@ set_meta_tags author: [ "Dmytro Shteflyuk", "John Doe" ]
 ## Maintainers
 
 [Dmytro Shteflyuk](https://github.com/kpumuk), [https://kpumuk.info](http://kpumuk.info/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkpumuk%2Fmeta-tags.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkpumuk%2Fmeta-tags?ref=badge_large)
